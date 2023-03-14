@@ -2,7 +2,7 @@ module bta-wiki-import
 
 go 1.19
 
-//replace github.com/bloodydoves/bta-wiki-import => /home/eadderley/fungit/bta-wiki-import
+replace github.com/bloodydoves/bta-wiki-import => /home/eadderley/fungit/bta-wiki-import
 
 require (
 	cgt.name/pkg/go-mwclient v1.2.0
